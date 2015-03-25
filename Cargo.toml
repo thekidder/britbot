@@ -1,0 +1,5 @@
+[package]
+
+name = "britbot"
+version = "0.0.1"
+authors = ["Adam Kidder <thekidder@gmail.com>"]
